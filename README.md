@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @parwarr
+- 👋 Hi, I’m @parwar
 - 👀 I’m interested in fullstack development
 ### Languages
 
